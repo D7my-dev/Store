@@ -59,7 +59,7 @@
 </div>
 </li>
 </ul>
-<a onclick="window.location='altstore://install?url=https://3rb.link/RCEC';" class="button button-fill button-round" style="background: #2b8287;color: #ffffff;padding: 7px 10px 35px 10px;margin-right: 6px;margin-bottom: 17px;font-weight: bold;font-size: 16px;">Install with AltStore
+<a onclick="window.location='altstore://install?url=https://file.allapp.me/index.php/s/7fqm3TdGWnya4nc/download';" class="button button-fill button-round" style="background: #2b8287;color: #ffffff;padding: 7px 10px 35px 10px;margin-right: 6px;margin-bottom: 17px;font-weight: bold;font-size: 16px;">Install with AltStore
 تثبيت في التستور <i class="fas fa-download" style="padding-right: 5px;"></i></a>
 <div style="
     margin-bottom: 23px;
