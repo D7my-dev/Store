@@ -23,7 +23,7 @@
 </a>
 </div>
 <div style="margin-top: 3px;" class="right">
-<a class="right open-vertical"><img src="img/TikTok++.png" style="
+<a class="right open-vertical"><img src="img/TikTok++.JPG" style="
     border-radius: 9px;
     width: 35px;
 "></a>
